@@ -1,0 +1,33 @@
+Ein Zug (auch „eine Zugfahrt“) ist ein Verbund aus Schienenfahrzeugen oder ein einzelnes Schienenfahrzeug, der/das auf die freie Strecke übergeht. In der Schweiz werden Zugfahrten auch als signalmässige Fahrten bezeichnet.[1] Sie unterscheiden sich von Rangierfahrten in einem Bahnhof oder von abgestellten Garnituren.
+
+Ein Verbund aus Schienenfahrzeugen – unabhängig davon, ob er als Zugfahrt oder Rangierbewegung verkehrt oder abgestellt ist – wird Zugverband oder Zugeinheit genannt. In der Schweiz, wo die erste Bezeichnung für nacheinander in einer Fahrplantrasse verkehrende Einheiten im Folgezugbetrieb steht, werden dagegen die Begriffe Zugskomposition oder Zugkomposition genutzt.[2] Gekuppelte Wagen ohne Triebfahrzeug heißen in Deutschland und Österreich Wagenzug.
+
+Definition
+	
+Dieser Artikel oder Absatz stellt die Situation in Deutschland, Österreich und der Schweiz dar. Bitte hilf uns dabei, die Situation in anderen Staaten zu schildern.
+Deutschland
+Für Eisenbahnen in Deutschland werden Züge in § 34 (1) der Eisenbahn-Bau- und Betriebsordnung (EBO) definiert:
+
+„Züge sind die auf die freie Strecke übergehenden, aus Regelfahrzeugen bestehenden, durch Maschinenkraft bewegten Einheiten und einzeln fahrende Triebfahrzeuge. Geeignete Nebenfahrzeuge dürfen wie Züge behandelt oder in Züge eingestellt werden.“
+
+Die EBO enthält in §§ 34 und 35 weitere Vorschriften für Züge, wie z. B.
+
+Zugschluss- und Spitzensignal (§ 34 Abs. 6),
+Längenbegrenzung (§ 34 Abs. 8),
+Bremsen (§ 35).
+Jeder Zugfahrt wird eine pro Tag und Infrastrukturbetreiber eindeutige Zugnummer zugeordnet.
+
+Das Erfordernis, auf die freie Strecke überzugehen, ist insoweit veraltet, als mit der Einführung von elektronischen Stellwerken (ESTW) vermehrt ehemals getrennte Betriebsstellen aus sicherungstechnischer Sicht zu einer Betriebsstelle zusammengefasst werden, insbesondere dort, wo durch das „Ineinanderliegen“ der Einfahrsignale auch sonst keine freie Strecke vorhanden wäre. Daher fordert das Regelwerk der DB Netz das Vorhandensein eines Fahrplans:
+
+„Züge sind auf die freie Strecke übergehende oder innerhalb eines Bahnhofs nach einem Fahrplan verkehrende einzeln fahrende Triebfahrzeuge oder Einheiten, die zusammengesetzt sein können aus arbeitenden Triebfahrzeugen oder arbeitenden Triebfahrzeugen und dem Wagenzug, in den Wagen oder nicht arbeitende Triebfahrzeuge eingestellt sind.
+
+Geeignete Nebenfahrzeuge dürfen wie Züge behandelt oder in Züge eingestellt werden. Das Eisenbahnverkehrsunternehmen gibt dem Zugpersonal bekannt, welche Nebenfahrzeuge für Züge geeignet sind.
+
+Züge werden in Reise- und Güterzüge eingeteilt.“
+
+– Ril 408.2101A01 „Züge“
+Die in § 1 BOStrab gegebene Definition für Straßenbahnen in Deutschland ergibt Ähnliches:
+
+„Züge sind auf Streckengleise übergehende Einheiten. Sie können als Personen- oder Betriebszüge verkehren und aus einem oder mehreren Fahrzeugen bestehen.“
+
+Im Rahmen des Betrieblichen Zielbildes der DB Netz soll ab 2035 die Unterscheidung von Zug- und Rangierfahrten aufgehoben werden. Stattdessen soll sich die Funktionalität des Betriebs und die zugehörigen Prozesse an den ETCS-Betriebsarten orientieren.[3]
