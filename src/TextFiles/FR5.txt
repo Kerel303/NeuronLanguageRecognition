@@ -1,0 +1,31 @@
+Internet Archive (ou IA) est un organisme à but non lucratif consacré à l’archivage du Web qui agit aussi comme bibliothèque numérique. Ces archives électroniques sont constituées de clichés instantanés (des copies sont prises à différents moments) de pages web, de textes, de logiciels, de films, de livres et d’enregistrements audio.
+
+Pour assurer la stabilité et la sécurité des données archivées, un site miroir fonctionnel est conservé à la Bibliotheca Alexandrina en Égypte[8]. L’IA met gratuitement ses collections à la disposition des chercheurs, historiens et universitaires. Située dans le Richmond District, au sud du Presidio de San Francisco, elle est membre de l'American Library Association et est officiellement reconnue comme bibliothèque par l'État de Californie[9]. En juillet 2025, Internet Archive rejoint le réseau des 1 100 bibliothèques américaines chargées de conserver et rendre accessibles les documents du gouvernement fédéral[10].
+
+Le robot d'indexation utilisé par IA est Heritrix, un logiciel libre. Le logiciel de numérisation de livres est également libre, il se nomme Scribe[11].
+
+Histoire
+Premier siège d'Internet Archive au Presidio, une ancienne base militaire américaine à San Francisco, de 1996 à 2009
+Le premier siège d'Internet Archive au Presidio, une ancienne base militaire américaine à San Francisco, de 1996 à 2009.
+Internet Archive est fondée en 1996 par Brewster Kahle. En raison de leurs objectifs — la préservation de la connaissance humaine et l'accessibilité des collections à tous —, les fondateurs de IA comparent ce projet à celui plus ancien de la bibliothèque d'Alexandrie.
+
+Une refonte du site est lancée en version bêta en novembre 2014, et l'ancienne mise en page est supprimée en mars 2016[12].
+
+En novembre 2016, Brewster Kahle annonce que l'Internet Archive construisait l'Internet Archive of Canada, une copie de l'Archive qui serait basée quelque part au Canada. L'annonce fait l'objet d'une large couverture en raison de l'implication que la décision de construire une archive de sauvegarde dans un pays étranger était due à la présidence à venir de Donald Trump[13].
+
+Depuis 2017, OCLC et l'Internet Archive ont collaboré pour rendre les notices des livres numérisés de l'Archive disponibles dans WorldCat[14].
+
+Depuis 2018, la résidence d'arts visuels de l'Internet Archive, organisée par Amir Saber Esfahani et Andrew McClintock, aide à connecter les artistes avec les plus de 48 pétaoctets[15] de documents numérisés de l'Archive. Au cours de cette résidence d'un an, les artistes visuels créent un ensemble d'œuvres qui aboutissent à une exposition. L'objectif est de relier l'histoire numérique aux arts et de créer quelque chose que les générations futures pourront apprécier en ligne ou hors ligne[16]. Parmi les précédents artistes en résidence, citons Taravat Talepasand, Whitney Lynn, et Jenny Odell[17].
+
+Cyberattaques
+Au cours de la semaine du 27 mai 2024, l'Internet Archive subit une série d'attaques DDoS qui rendent ses services indisponibles par intermittence, parfois pendant plusieurs heures, sur une période de plusieurs jours[18],[19],[20].
+
+Le 9 octobre 2024, le service est de nouveau visé par une grande attaque DDoS rendant le site web indisponible[21]. L'équipe de l'Internet Archive, dont l'archiviste Jason Scott, confirme l'attaque DDoS. Le groupe hacktiviste BlackMeta revendique les attaques[22]. Une fenêtre contextuelle sur le site annonce une faille de sécurité « catastrophique »[23]. Environ 31 millions de comptes d'utilisateurs auraient été touchés[24]. L'attaquant vole les courriels des utilisateurs et leurs mots de passe cryptés en Bcrypt[25]. Un jour plus tard, le 10 octobre, archive.org et openlibrary.org sont de nouveau victimes d'une attaque DDoS. Le 13, les e-mails sont redevenus disponibles[Quoi ?], et le 14 octobre la Wayback Machine redevient disponible en lecture seule.
+
+Services
+
+Photo prise à la Bibliotheca Alexandrina : elle contient une copie des documents d’Internet Archive.
+
+Serveurs d'Internet Archive.
+Wayback Machine
+La Wayback Machine (littéralement « la machine à revenir en arrière ») est la partie des clichés du Web développée par Internet Archive. La Wayback Machine est créée par Brewster Kahle afin de stocker et indexer tout ce qui se trouve sur le web[26]. La Wayback Machine est mise à jour à partir du contenu d'Alexa. Ce service permet aux utilisateurs de voir les versions archivées de pages Web à travers le temps : c'est l'« index à trois dimensions ».

@@ -1,0 +1,87 @@
+tellaris est un jeu vidéo en 4X de grande stratégie prenant place dans un univers de science-fiction développé par Paradox Development Studio et édité par Paradox Interactive, sorti le 9 mai 2016[2] sur Microsoft Windows, OS X et Linux. Une version du jeu est sortie sur PlayStation 4 et Xbox One.
+
+Système de jeu
+Stellaris est un jeu en temps réel de grande stratégie qui débute en l'an 2200. Le joueur peut contrôler chaque vaisseau par micro-gestion ou il pourra créer un ou plusieurs secteurs (ensemble de quelques systèmes solaires) qui sera contrôlé par l'IA. Il pourra développer des accords commerciaux par la diplomatie avec les autres races rencontrées. Il choisira une espèce qui aura des caractéristiques de technologie, d'éthique ou de politique spécifiques[3]. Le joueur commencera avec une seule planète dans son espace, un vaisseau de construction, une petite flotte de navires de guerre, un port spatial et un vaisseau scientifique.
+
+Au tout début, le jeu consistera à explorer et à coloniser l'espace immédiat. Puis, en milieu de partie, l'activité se focalisera sur la diplomatie, le commerce spatial et la gouvernance de l'empire. En fin de partie, des événements critiques pourront se produire et auront une répercussion à l'échelle galactique comme un soulèvement de robots à l'IA doué de sensations ou une invasion par des forces extra-dimensionnelles ou extra-galactiques, les deux premiers étant toujours déclenchés par les empires irréfléchis. Paradox espère que cela résoudra un problème récurrent de fin de jeu dans les styles de jeux 4X et dans lesquelles une faction est rendue si puissante que sa victoire devient inévitable, ce qui entraînerait une jouabilité frustrante[4].
+
+Développement
+Stellaris est développé par Paradox Development Studio et édité par la société mère, Paradox Interactive[5]. Le jeu utilise le même moteur Clausewitz dont s'est servi le studio en 2007 pour Europa Universalis III[3], mais avec quelques modifications, comme l'utilisation du physically based rendering (PBR)[6]. Le jeu a été officiellement annoncé lors de la Gamescom en août 2015[7]. Stellaris est diffusé auprès du public le 9 mai 2016.
+
+Après le lancement, les développeurs ont confirmé qu'il y aurait un certain nombre de packs d'extension, ainsi que des mises à jour gratuites pour résoudre les bogues et introduire de nouveaux éléments de gameplay[8]. Le premier patch majeur est diffusé le 24 mai 2016, mettant en avant les nombreuses améliorations d'IA, ainsi qu'une race supplémentaire jouable[9].
+
+À l'occasion de la gamescom 2018, Paradox Interactive annonce une nouvelle version du jeu, spécialement conçue pour PlayStation 4 et Xbox One, intitulée Stellaris : Console Edition[10].
+
+Éléments de gameplay
+La pertinence de cette section est remise en cause. Considérez son contenu avec précaution. Améliorez-le ou discutez-en, sachant que la pertinence encyclopédique d'une information se démontre essentiellement par des sources secondaires indépendantes et de qualité qui ont analysé la question. (mai 2022)
+Les Empires
+Centre du gameplay, les empires sont incarnés soit par l'IA soit par le joueur. Avant chaque partie le joueur à le choix entre un des empires préconfigurés ou en créer un lui-même. Différents éléments caractérisent un empire en plus des personnalisations classiques d'un jeu de gestion (nom, drapeau, apparence des vaisseaux etc.) :
+
+L'origine
+Le gouvernement
+Les éthiques
+Les civismes
+L'espèce principale
+Les origines
+Dans Stellaris différentes origines sont disponibles, elles représentent l'histoire de l'espèce principale de début de partie et offre différents avantages soit sur le monde natal soit pour l'empire. En avril 2022 il existait en tout 27 origines différentes , dont 22 jouables et 5 injouables (Empires contrôlés par l'IA)[11].
+
+Les gouvernements
+Chaque empire a un gouvernement qui lui procure des avantages et pénalités. Celui ci est configuré en fonctions de critères différents :
+
+1) L'autorité : Les autorités sont divisés en 2 grandes catégories : normale (démocratique, oligarchique, dictatorial, impérial ou Firme) et les consciences de gestalt (Esprit de ruche et intelligence artificielle). Les autorités normales sont modifiables au cours de la partie pour d'autres autorités (normales) à l'inverse des consciences de gestalt
+
+2) Le type de gouvernement : Dont le type est défini en fonction des éthiques de l'empire et de l'autorité.
+
+Les éthiques
+L'éthique est un axe central d'un empire puisqu'il détermine comment son empire et sa population se comportent. Chaque empire a 3 "points" d'éthique qu'il peut dépenser comme ceci :
+
+1 point dans les éthiques normales
+2 points dans les éthiques fanatiques
+Le joueur peut donc avoir soit : 3 éthiques normales, soit une éthique fanatique et une éthique normale.
+
+Cependant le joueur ne peut pas prendre des éthiques opposées (ex : Militarisme / Pacifisme)
+
+À l'exception des consciences de gestalt, chaque empire peut choisir entre les éthiques
+
+Éthiques	Éthiques opposées
+Militariste (fanatique)	Pacifiste (fanatique)
+Xénophobe (fanatique)	Xénophile (fanatique)
+Égalitariste (fanatique)	Autoritaire (fanatique)
+Matérialiste (fanatique)	Spiritualiste (fanatique)
+Les civismes
+Les civismes représentent la culture, l'identité et/ou les traditions de la population d'un empire. En début de partie le joueur peut choisir jusqu'à 2 civismes puis en milieu de partie celui-ci peut aller jusqu'à 3 avec la bonne technique. En avril 2022, Stellaris comprenait 116 civismes dont 93 jouables et 23 non jouables[12]. Globalement les civismes sont réparties en plusieurs catégories en fonction de l'autorité :
+
+Les civismes standards : que tout empire qui n'est pas une conscience de gestalt ou une firme peut prendre (s'il remplit les conditions nécessaires)
+Les civismes spécifiques : Réservés à types d'autorité (exemple : les civismes de firme, les civismes d'intelligence artificielle ou les civismes d'esprit de la ruche)
+Les civismes injouables : Indisponibles pour les empires de joueur, ils sont réservés à des empires spéciaux contrôlés par l'IA, par exemple les empires déchus ou empires éveillés, les crises de milieu de partie (comme l'empire du grand Khan[13]) ou les civilisations pré-FTL. Ce type d'éthique sert à donner un avantage ou une pénalité importante à un empire afin de le rendre dangereux pour le joueur ou pour contenir sa puissance. De plus, elles servent également à donner de la profondeur à l'histoire d'un empire avec la description du civisme.
+Les espèces
+À chaque début de partie, l'empire du joueur aura une espèce principale sois issu d'un Empire préconfiguré sois qu'il aura lui-même créé. C'est une ressource importante de Stellaris car chaque espèce à ses propres traits qui peuvent représenter un avantage ou un inconvénient. Il existe en tous 5 types d'espèces différentes :
+
+Type de l'espèce	DLC ?	Ressources pour la survie	Caractéristiques
+Biologique	✗
+non
+
+Nourriture	-Multiplication par croissance
+-Peut créer des espèces hybrides d'autres espèces (technologie nécessaire)
+
+Robotique	✗
+non
+
+Énergie	-Multiplication par assemblage
+-Adaptabilité parfaite à tous types de monde classiques
+
+Machine	✓
+Synthetic dawn[14]
+
+Énergie	-Multiplication par assemblage
+-Déblocable seulement en jouant une intelligence artificielle
+
+-Adaptabilité parfaite à tous types de monde classiques
+
+Lithoïde	✓
+Lithoids Species Pack[15]
+
+Minéraux	-Multiplication par croissance
+-Longue durée de vie
+
+-Adaptabilité importante

@@ -1,0 +1,50 @@
+YouTube (Aussprache [ˈjuːtuːb oder ˈjuːtjuːb]) ist ein 2005 gegründetes Videoportal des US-amerikanischen Unternehmens YouTube, LLC mit Sitz im kalifornischen San Bruno, welches seit 2006 eine Tochtergesellschaft von Google LLC ist. Benutzer können auf dem Portal kostenlos Videoclips ansehen, bewerten, kommentieren und selbst hochladen. 2019 erzielte YouTube einen Jahresumsatz von 15 Milliarden Dollar.[1]
+
+Die Einnahmen werden zum Großteil durch das Abspielen von Werbespots generiert.[2]
+
+YouTube bietet drei Formen der Zugänglichkeit an: Öffentlich, Ungelistet oder Privat. Standard sind öffentliche Videos. Diese sind von jedermann anzusehen und in Suchergebnissen zu finden. Private Videos sind nur für den Uploader abspielbar. Ungelistete Videos sind nur mit Kenntnis des Aufruf-Links zugänglich; sie erscheinen nicht in Kanälen oder Suchergebnissen. Links zu ungelisteten vor 2017 hochgeladenen Videos wurden 2021 automatisch auf „Privat“ gestellt und somit unsichtbar – auch in Playlists.[3]
+
+Über das YouTube-Partnerprogramm[4] ist es den Produzenten von Videos seit 2007 möglich, Geld zu verdienen (Videos monetarisieren). Häufig organisieren sich Produzenten zu Kooperationen in Netzwerken („Multi-Channel-Network“).[5]
+
+Geschichte
+
+Die YouTube-Gründer Chad Hurley, Steve Chen und Jawed Karim (v. l. n. r.)
+
+Bis 2006 befand sich die YouTube-Zentrale hier in der 1. Etage im kalifornischen San Mateo
+
+YouTube-Zentrale von 2006 bis 2010 im kalifornischen San Bruno
+Gründung und erstes Wachstum (2005 – 2006)
+YouTube wurde am 14. Februar 2005 von den ehemaligen PayPal-Mitarbeitern Chad Hurley, Steve Chen und Jawed Karim gegründet. Der Begriffsteil „Tube“ (eigentlich: Röhre) bezeichnet umgangssprachlich einen Fernseher, abgeleitet von der darin früher verwendeten „cathode ray tube“ (dt. Kathodenstrahlröhre). Der Name im Ganzen (wörtlich: Du Röhre) könnte als „Du sendest“ verstanden werden. Ursprünglich sah das Konzept eine Art Datingplattform vor, allerdings wurde dieses Konzept nur wenige Tage nach dem Start verworfen.[6] Es hatte sich gezeigt, dass die wenigen ersten Benutzer der Plattform anstelle von Dating-Videos Videos ihrer Haustiere oder von Urlaubserlebnissen hochgeladen hatten. Dies fanden die drei Gründer interessant und änderten das Konzept der Plattform in ein allgemeines Videoportal, bei dem die Nutzer selbst die Videoinhalte bestimmten. Dies stieß auf großen Anklang. Schon damals konnten hochgeladene Videos mit „Gefällt mir“-Zeichen und Kommentaren versehen werden.[7] Der ursprüngliche Slogan ”Broadcast Yourself“ (deutsch: „strahle dich selbst aus“) bedeutete, dass jeder durch YouTube-Kanäle einen privaten fernsehähnlichen Kanal nachstellen kann. Dieser Spruch wurde bei einer Neugestaltung der Webpräsenz im Januar 2010 entfernt.[8]
+
+Das erste Video auf dieser Plattform, Titel Me at the zoo, wurde von Karim selbst am 23. April 2005 hochgeladen.[9][10]
+
+Am 9. Oktober 2006 wurde YouTube vom Suchmaschinenbetreiber Google für umgerechnet 1,31 Milliarden Euro (in Aktien) gekauft. Da die drei Gründer unterschiedliche Anteile am Unternehmen hielten, erhielten sie verschiedene Mengen an Google-Aktien: 694.087 + 41.232 Aktien für Hurley (damaliger Marktwert 345 Millionen US$), 625.366 + 68.721 Aktien für Chen (326 Millionen US$) und 137.443 Aktien für Karim (64 Millionen US$).[11] Die Marke YouTube blieb bestehen; der Betrieb mit 67 Mitarbeitern – darunter die Gründer Chad Hurley und Steve Chen – führte die Geschäfte vorerst unabhängig weiter.[12]
+
+Zeitgleich erschien „QuickList“, eine Funktion zum Erstellen einer Warteschlange für nacheinander anzusehende Videos.[13]
+
+Die „Broadcast Yourself“-Ära (2007–2013)
+2007 führte YouTube einen jährlichen Wettbewerb zur Förderung der Talente auf der Plattform ein. Unter dem Namen „Secret Talents“ (Secret Talents Award) trat man den großen Castingshows mit einem Onlinecasting entgegen. Den Gewinnern wurden Förderungsbudgets und ein professioneller YouTube-Kanal als Preise geboten.
+
+Das URL-Kürzel „YouTu.be“[14] fungierte 2007 als Imagehoster.[15]
+
+Etwa 2008 wurde „Warp Player“ erprobt, eine alternative visuelle Ansicht zum Durchstöbern von Videos, dessen Vorschaubilder in ein schwebendes Netz angezeigt wurden.[16][17]
+
+Eine Studie des Marktforschungsinstituts Hitwise von März 2008 ordnete YouTube 73 Prozent aller Besuche von US-Videoportal-Seiten zu.[18] Das eigene Videoangebot der Muttergesellschaft Google kam in dieser Zeit auf 8,4 Prozent.
+
+Im selben Jahr wurde eine Funktion zum Nachtragen frei platzierbarer Anmerkungen und Sprechblasen auf Videos eingeführt. Solche konnten ebenfalls auf andere Videos verweisen, welches die Erstellung interaktiver Videos ermöglichte. Die Funktion wurde in der mobilen App nicht eingeführt. Das Erstellen neuer Anmerkungen wurde im Mai 2017 endgültig deaktiviert und im Januar 2019 gänzlich entfernt. Zum Verweisen auf andere Videos stehen am Videoende platzierbare „Infokarten“ zur Verfügung.[19]
+
+Seit Oktober 2008 lässt sich per Zeitstempel-URL auf gewünschte Stellen in Videos verweisen.[20]
+
+2009 wurde die Syndikationsfunktion „AutoShare“ eingeführt, welche auf Twitter und Google Plus, ursprünglich auch Facebook und Google Reader, das automatische Teilen von Aktivitäten aus der Kanal-Feed-Seite wahlweise ermöglichte: Neuveröffentlichungen, positive Bewertungsabgaben, zu Wiedergabelisten hinzugefügte Videos, und abonnierte Kanäle. Diese Funktion wurde am 31. Januar 2019 entfernt, und die „Feed“-Unterseite wurde Mitte 2020 abgeschafft.[21][22][23]
+
+Ende 2009 wurde das Erzeugen von Untertiteln durch automatische Spracherkennung erstmals auf Englisch eingeführt. Ende 2012 wurde es auf sechs europäische Sprachen erweitert.[24][25]
+
+Am 3. April 2010 wurde Bewertungen, die Nutzer abgeben können, wenn ein Video dies unterstützt, auf einer Skala von einem bis fünf Sternen durch „Gefällt mir“- und „Gefällt mir nicht“-Felder ersetzte, da Nutzer davor meist fünf oder einen Stern vergaben.
+
+Am 6. März 2012 wurden Vorschau-Tooltips auf der Videosuchleiste erstmals erprobt. Diese zeigen beim Überfliegen mit dem Mauszeiger Vorschaubilder an, beim Gedrückthalten einen virtuellen Filmstreifen mit umgebenden Vorschaubildern, und bei Videos mit ab 90 Minuten Länge einen vergrößerten Ausschnitt der Suchleiste, während zuvor lediglich ein einfacher Zeitstempel angezeigt wurde.[26]
+
+Das Design von YouTube wird mitunter verändert. Am 7. März 2012 erhielten alle Kanäle auf YouTube ein einheitliches Design, welches der seit Juli 2011 erprobten Gestaltung „Cosmic Panda“ ähnelt.[27][28]
+
+Im August 2012 wurde YouTube Movies in Deutschland gestartet. YouTube Movies ist ein separater Bereich der Plattform für professionelle Kinofilme und Dokumentationen, darunter beispielsweise Dune oder Dawn of the Dead.[29]
+
+Ab September 2012 konnten mit Cookies neue Designs von YouTube aufgerufen werden. Rief man die mobile Website von YouTube mit dem Smartphone auf, so konnte man das neue Design bereits einsehen.

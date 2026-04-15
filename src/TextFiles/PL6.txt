@@ -1,0 +1,57 @@
+Archimedes z Syrakuz (gr. Ἀρχιμήδης ὁ Συρακόσιος Archimedes ho Syrakosios; ok. 287–212 p.n.e.) – grecki matematyk, fizyk i inżynier. Uznawany za jednego z najwybitniejszych matematyków starożytności[1][2][3][4][5][6][7].
+
+Życiorys
+Urodzony i zmarły w Syrakuzach; wykształcenie zdobył w Aleksandrii. Był synem astronoma Fidiasza i prawdopodobnie krewnym lub powinowatym władcy Syrakuz Hierona II.
+
+W czasie drugiej wojny punickiej kierował pracami inżynieryjnymi przy obronie Syrakuz. Rzymianie myśleli, że sami bogowie bronią miasta, gdyż skonstruowane przez Archimedesa i schowane za murami machiny ciskały pociski w ich stronę. Archimedes został zabity przez żołnierzy rzymskich po zdobyciu miasta, mimo wyraźnego rozkazu dowódcy, Marcellusa, by go ująć żywego. Później gorzko tego żałowano. Tuż przed śmiercią, zapytany, kim jest, Archimedes miał ponoć powiedzieć „noli turbare circulos meos”, co znaczy „nie zamazuj moich kół”[8]. Na życzenie Archimedesa na jego nagrobku wyryto kulę, stożek i walec; było to uznanie jego pięknych dowodów twierdzeń, interpretowanych obecnie jako szkolne wzory na objętość i pole powierzchni tych trzech brył.
+
+Historia życia Archimedesa wiąże się z procesem podboju greckich miast rejonu Morza Śródziemnego przez republikę rzymską. Rzymianie, niszcząc i grabiąc zdobywane miasta i obciążając je podatkami, spowodowali stagnację kultury i filozofii hellenistycznej oraz upadek greckiej nauki, po którym już nigdy nie wróciła do dawnego stanu[9]. Zarazem Rzymianie zachowali ogromny szacunek dla greckich osiągnięć, z których niejednokrotnie korzystali. Nie potrafiono już jednak osiągnąć dawnego greckiego poziomu rozumowań. Symbolem tego wszystkiego jest właśnie śmierć Archimedesa – zabitego przez rzymskiego legionistę w chwili roztrząsania jakiegoś problemu matematycznego, a następnie z honorami pochowanego przez rzymskiego wodza. Jednakże włoski uczony specjalizujący się w historii nauki starożytnej, Lucio Russo podchodzi sceptycznie do tej informacji, pisząc: „Zawsze czytamy, że Archimedesa zabito na skutek tragicznej pomyłki, przekraczając rozkazy rzymskiego dowódcy Marcellusa, który bardzo nad tym bolał. (...) Ta wersja faktów, pochodząca częściowo od Liwiusza i upiększona później przez Plutarcha, nie znajduje żadnego potwierdzenia u Polibiusza, będącego już w czasach Liwiusza jedynym wiarygodnym źródłem na temat złupienia Syrakuz[10].
+
+Osiągnięcia naukowe
+Archimedes jest autorem traktatu o kwadraturze odcinka paraboli, prekursorem rachunku różniczkowego i całkowego, twórcą hydrostatyki (w dziele O ciałach pływających) i statyki (w dziele O równowadze płaszczyzn)[11]. Zajmował się również astronomią – opisał ruch pięciu planet, Słońca i Księżyca wokół nieruchomej Ziemi, zbudował globus i planetarium z hydraulicznym napędem, które Marcellus zabrał jako jedyny łup z Syrakuz[12]. W swoim rozumowaniu posługiwał się tzw. metodą mechaniczną. Polegała ona na traktowaniu fizycznych właściwości jako matematycznych oraz odwrotnej metody, dzięki której właściwości fizyczne pozwalały na tworzenie nowych teorii matematycznych. Jego sposób pracy uważany jest za pierwszy przykład użycia fizyki matematycznej[13].
+
+Wielkie zasługi dla współczesnej recepcji dzieł Archimedesa wniósł Johan Ludvig Heiberg, duński filolog. Przełożył on i opracował znane od czasów renesansu dzieła zawarte w tzw. Kodeksach A i B Archimedesa oraz odkrył w Konstantynopolu w 1906 palimpsest z modlitewnikiem bizantyjskim z XIV wieku, który był napisany na pergaminie z wyskrobanym przedtem tekstem Archimedesa (tzw. Kodeks C). Heiberg zdołał odcyfrować i opublikować znaczną część oryginalnego tekstu[14].
+
+Odkrycia Archimedesa
+prawo Archimedesa
+zasadę dźwigni – sławne powiedzenie Archimedesa „Dajcie mi punkt podparcia, a poruszę Ziemię”,
+prawa równi pochyłej,
+środek masy i sposoby jego wyznaczania dla prostych figur.
+Obliczył wartość liczby pi dokładniej niż jego poprzednicy, przybliżając ją poprzez obwód 96-kąta foremnego[15]. Według jego oszacowania wynosiła ona 
+3
+10
+71
+<
+π
+<
+3
+1
+7
+.
+
+Zachowane dzieła Archimedesa
+O liczeniu piasku – o wielkich liczbach i o nieskończoności. Rozszerzył tu system liczbowy Greków (dotychczas sięgający liczby 10000 – miriada) i oszacował liczbę ziarenek piasku we wszechświecie jako 
+10
+63
+. Największą rozważaną przez niego liczbą była 
+10
+8
+⋅
+10
+16
+.
+{\displaystyle 10^{8\cdot 10^{16}}.}
+O liniach spiralnych – wprowadził tu spiralę Archimedesa.
+O wymierzaniu koła – pokazuje związek pola i obwodu koła.
+O kuli i walcu – wyprowadza zależności wiążące pole powierzchni i objętość kuli, walca i czaszy kulistej.
+Kwadratura paraboli.
+O konoidach i sferoidach – o krzywych stożkowych.
+O równowadze płaszczyzn – zasady statyki.
+O ciałach pływających – początek hydrostatyki (prawo Archimedesa) i aerostatyki.
+Wynalazki Archimedesa
+przenośnik śrubowy
+zegar wodny
+organy wodne
+machiny obronne
+udoskonalił wielokrążek i zastosował go do wodowania statków
+Archimedesowi przypisywana jest także śruba Archimedesa[16].

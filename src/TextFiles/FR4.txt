@@ -1,0 +1,56 @@
+Linux (parfois nommé GNU/Linux) est un système d'exploitation open source de type Unix, basé sur le noyau Linux créé en 1991 par Linus Torvalds. De nombreuses distributions Linux ont depuis vu le jour et constituent un important vecteur de popularisation du mouvement du logiciel libre.
+
+Si, à l'origine, Linux a été développé pour les ordinateurs compatibles PC et accompagné des logiciels GNU, il n'a jamais équipé plus d'une très faible (~3.17%) part des ordinateurs personnels. Mais le noyau Linux, accompagné ou non des logiciels GNU, est largement utilisé sur les serveurs, téléphones mobiles, systèmes embarqués et les superordinateurs.
+
+Controverse autour du nom
+Article détaillé : Linux ou GNU/Linux.
+À l'origine, le terme Linux ne désignait que le noyau de système d'exploitation Linux. Puis, par métonymie, l'usage du terme Linux s'est répandu pour décrire tant le noyau Linux que le système d'exploitation au sens large, qui contenait plus de logiciels issus du projet GNU que du projet Linux. Le nom GNU/Linux a été initié par Debian à la demande de Richard Stallman, pour créditer à la fois les développeurs de GNU (les logiciels système) et de Linux (le noyau). Cependant, ce terme plus long n'a jamais supplanté Linux qui reste le plus répandu.
+
+Depuis les années 2000, le noyau Linux est aussi très largement utilisé sans être accompagné de logiciels GNU. C'est notamment le cas d'Android, des images de conteneurs d'application qui utilisent une distribution minimaliste comme Alpine Linux, et des systèmes embarqués avec des commandes système simplifiées fournies par Busybox.
+
+Histoire
+Unix, Minix et GNU
+Articles détaillés : Unix, GNU et Minix.
+Le système Unix a été créé par AT&T au début des années 1970 et s'est notamment répandu dans le monde universitaire. Dès la fin de l'année 1977[2], des chercheurs de l'université de Californie apportèrent de nombreuses améliorations au système Unix et le distribuèrent sous le nom de Berkeley Software Distribution (BSD). Finalement, les distributions BSD furent purgées du code AT&T, et librement disponibles en 1991. La distribution de BSD a toutefois été contrariée par une procédure judiciaire d'AT&T (en) au début des années 1990.
+
+
+La mascotte GNU.
+En 1983, Richard Stallman annonce son projet de développer un système d'exploitation libre compatible UNIX appelé GNU[3], en invitant la communauté hacker à le rejoindre et participer à son développement. Dès 1985, certaines pièces maîtresses sont opérationnelles, dont le compilateur GCC[4]. Le projet GNU commence vers 1990 à travailler sur le noyau de système d'exploitation Hurd, mais son développement prendra plus de dix ans.
+
+Minix est un système d'exploitation de type Unix fondé sur un micro-noyau. Il a été créé en 1987 par le professeur Andrew Tanenbaum à des fins pédagogiques. La licence de Minix était bon marché afin d'être accessible aux étudiants, mais Minix n'était pas librement distribuable.
+
+1991 : naissance du noyau Linux
+
+Linus Torvalds, initiateur et coordinateur du noyau Linux.
+
+Tux, le manchot mascotte de Linux.
+Article détaillé : Noyau Linux.
+En 1991, l'étudiant finlandais Linus Torvalds, indisposé par la faible disponibilité du serveur informatique UNIX de l'université d'Helsinki, entreprend le développement d'un noyau de système d'exploitation, qui prendra le nom de «noyau Linux».
+
+Linus Torvalds utilisait et appréciait Minix. Le 25 août 1991, il annonce sur le forum Usenet comp.os.minix le développement du noyau Linux[5].
+
+Bien qu'il appelait son projet «Linux» en privé, Linus l'a d'abord appelé «Freax» en public, car il trouvait «Linux» trop égocentrique. Toutefois, lors de la première publication sur le site FTP ftp://ftp.funet.fi [archive], l'administrateur du serveur Ari Lemmke n'aimait pas «Freax» et a créé un répertoire pub/OS/Linux[6].
+
+Linus Torvalds choisit rapidement de publier son noyau sous licence GNU GPL. Cette décision rend les logiciels GNU et le noyau Linux juridiquement compatibles. Dès lors, pour combler le vide causé par le développement inachevé de Hurd, GNU et le noyau Linux sont associés pour former un nouveau système d'exploitation (parfois considéré comme variante de GNU): GNU/Linux ou Linux.
+
+Depuis 1991: évolution et diffusion du système
+À l'origine, l'installation d'un système opérationnel GNU/Linux nécessitait des connaissances solides en informatique et obligeait à trouver et installer les logiciels un à un.
+
+Rapidement, des ensembles de logiciels formant un système complet prêt à l'usage ont été disponibles: ce sont les premières distributions Linux. On peut citer par ordre chronologique[7]:
+
+deux disquettes 5,25 pouces boot et root créées par HJ Lu, et contenant un minimum de logiciels ;
+MCC Interim Linux, collection de disquettes sortie en février 1992 ;
+TAMU 1.0A, faite par l'université A&M du Texas pour ses besoins internes, mais distribuée, et première distribution incluant X Window ;
+Softlanding Linux System sortie en mai 1992, qui sera reprise pour faire Slackware ;
+Yggdrasil Linux/GNU/X sortie en décembre 1992, première distribution avec possibilité de live CD ;
+Slackware, sortie en juillet 1993, qui est la plus ancienne distribution encore maintenue ;
+Debian, sortie en août 1993, qui est une des principales distributions actuelles.
+Dans la prise en compte progressive de l'intérêt commercial de Linux et des logiciels libres, on peut citer quelques manifestations :
+
+le lancement en février 1998 de l'Open Source Initiative ;
+l'annonce en juillet 1998 du support d'Oracle Corporation, qui porte et supporte sa célèbre base de données sous GNU/Linux ;
+l'entrée en bourse de Red Hat le 11 novembre 1999; celle de VA Linux le mois suivant qui marque le sommet d'une bulle spéculative ;
+le support massif apporté par le géant IBM, qui y dépense son premier milliard de dollars en 2001[8], emploie en 2005 près de trois-cents développeurs du noyau Linux et organise à partir de 2003 la riposte légale lors de l'attaque du SCO Group qui affirmait posséder des droits d'auteurs sur le noyau Linux (voir l'article SCO contre Linux) ; l'acquisition en octobre et novembre 2003 de Ximian puis de SUSE par l'entreprise américaine Novell[9],[10].
+C'est dans le monde des serveurs informatiques que GNU/Linux a eu le plus d'impact, notamment avec le très populaire LAMP. Sur les serveurs, GNU/Linux a souvent été utilisé pour remplacer d'autres systèmes de type Unix ou éviter l'achat de licences Windows NT et est un des acteurs majeurs du domaine. Dès 2003, Microsoft semble faire lui-même en partie appel à GNU/Linux[11].
+
+En octobre 2024, Linus Torvalds exclut du développement du noyau de Linux douze développeurs russes, surtout présents dans la maintenance de pilotes pour le noyau. La raison officielle évoquée est la volonté d'appliquer les sanctions contre la Russie[12].
