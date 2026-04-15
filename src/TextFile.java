@@ -19,7 +19,7 @@ public class TextFile implements Trainable {
                 String buffer = line.toLowerCase().replaceAll("[^a-z]", "");
                 if(!buffer.isEmpty()) {
                     lines.add(buffer);
-                    System.out.println(buffer);
+                    //System.out.println(buffer);
 
                     // Liczenie liter w aktualnej linii
                     for (int i = 0; i < buffer.length(); i++) {
@@ -33,6 +33,19 @@ public class TextFile implements Trainable {
             this.label = label;
         }catch(Exception e) {
             e.printStackTrace();
+        }
+    }
+    TextFile(String text) {
+        String buffer = text.toLowerCase().replaceAll("[^a-z]", "");
+
+        if(!buffer.isEmpty()) {
+            // Liczenie liter w aktualnej linii
+            for (int i = 0; i < buffer.length(); i++) {
+                char c = buffer.charAt(i);
+                // 'a' ma kod ASCII 97, więc odejmując 'a' od znaku,
+                // otrzymujemy indeks 0 dla 'a', 1 dla 'b' itd. :D
+                TabOfLetters[c - 'a']++;
+            }
         }
     }
 

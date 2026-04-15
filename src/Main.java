@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 public class Main {
     static List<TextFile> listToTeach;
@@ -26,6 +27,17 @@ public class Main {
 
         testAccuracy();
 
+        Scanner scanner = new Scanner(System.in);
+
+        StringBuilder sb = new StringBuilder();
+        System.out.println("Podaj tekst do sprawdzenia języka: "); // Ctrl + D aby zakończyć wpisywanie
+        while (scanner.hasNextLine()) {
+            String line = scanner.nextLine();
+            sb.append(line);
+        }
+        System.out.println("Sklasyfikowano jako: " + neuronLayer.classify(new TextFile(sb.toString())));
+
+        scanner.close();
     }
 
 
