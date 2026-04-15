@@ -1,2 +1,2 @@
-# PerceptronLanguageRecognition
-This script is using perceptrons to recognize wich language the text we gave it is
+# NeuronLanguageRecognition
+This script is using neurons to recognize wich language the text we gave it is
