@@ -22,16 +22,16 @@ public class Main {
 
         neuronLayer = new NeuronLayer<>(classes, 26);// 26 liter od a do z
 
+        neuronLayer.train(listToTeach, iterationNumber);
+
+        testAccuracy();
+
+    }
 
 
-
-        TextFile tf = new TextFile("src/TextFiles/PL1", "Polski");
-
-        double[] input = tf.getInput();
-        for(int i = 0; i < input.length; i++){
-            System.out.println(input[i]);
-        }
-
+    static void testAccuracy(){
+        double accuracy = neuronLayer.accuracy(listToTest) * 100;
+        System.out.println("Celność warstwy perceptronów: " + accuracy + "%");
     }
 
 
@@ -41,6 +41,12 @@ public class Main {
         listToTeach = new ArrayList<>();
         listToTest = new ArrayList<>();
 
+        TextFile tf = new TextFile("src/TextFiles/PL1", "Polski");
+
+        double[] input = tf.getInput();
+        for(int i = 0; i < input.length; i++){
+            System.out.println(input[i]);
+        }
 
     }
 }
