@@ -37,7 +37,7 @@ public class Neuron {
         }
 
         sum += bias;
-
+        //System.out.println("sum = " + sum);
         return sigmoid(sum);
     }
 

@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 import java.util.Scanner;
 
 public class Main {
@@ -8,7 +9,7 @@ public class Main {
 
     static NeuronLayer<TextFile> neuronLayer;
 
-    static int iterationNumber = 100;
+    static int iterationNumber = 20;
 
     public static void main(String[] args) {
         getData();
@@ -30,12 +31,19 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         StringBuilder sb = new StringBuilder();
-        System.out.println("Podaj tekst do sprawdzenia języka: "); // Ctrl + D aby zakończyć wpisywanie
+        System.out.println("Podaj tekst do sprawdzenia języka (Ctrl + D aby zakończyć wpisywanie): ");
         while (scanner.hasNextLine()) {
             String line = scanner.nextLine();
             sb.append(line);
         }
         System.out.println("Sklasyfikowano jako: " + neuronLayer.classify(new TextFile(sb.toString())));
+
+//        System.out.println("\nPrawdopodobieństwa: ");
+//        Map<String, Double> map = neuronLayer.classifyAll(new TextFile(sb.toString()));
+//
+//        for (Map.Entry<String, Double> entry : map.entrySet()) {
+//            System.out.println(entry.getKey() + ": " + entry.getValue());
+//        }
 
         scanner.close();
     }
@@ -53,41 +61,28 @@ public class Main {
         listToTeach = new ArrayList<>();
         listToTest = new ArrayList<>();
 
-        listToTeach.add(new TextFile("src/TextFiles/PL1.txt", "Polski"));
-        listToTeach.add(new TextFile("src/TextFiles/PL2.txt", "Polski"));
-        listToTeach.add(new TextFile("src/TextFiles/PL3.txt", "Polski"));
-        listToTeach.add(new TextFile("src/TextFiles/PL4.txt", "Polski"));
-        listToTest.add(new TextFile("src/TextFiles/PL5.txt", "Polski"));
-        listToTest.add(new TextFile("src/TextFiles/PL6.txt", "Polski"));
-        listToTest.add(new TextFile("src/TextFiles/PL7.txt", "Polski"));
-        listToTeach.add(new TextFile("src/TextFiles/EN1.txt", "Angielski"));
-        listToTeach.add(new TextFile("src/TextFiles/EN2.txt", "Angielski"));
-        listToTeach.add(new TextFile("src/TextFiles/EN3.txt", "Angielski"));
-        listToTeach.add(new TextFile("src/TextFiles/EN4.txt", "Angielski"));
-        listToTest.add(new TextFile("src/TextFiles/EN5.txt", "Angielski"));
-        listToTest.add(new TextFile("src/TextFiles/EN6.txt", "Angielski"));
-        listToTest.add(new TextFile("src/TextFiles/EN7.txt", "Angielski"));
-        listToTeach.add(new TextFile("src/TextFiles/DE1.txt", "Niemiecki"));
-        listToTeach.add(new TextFile("src/TextFiles/DE2.txt", "Niemiecki"));
-        listToTeach.add(new TextFile("src/TextFiles/DE3.txt", "Niemiecki"));
-        listToTeach.add(new TextFile("src/TextFiles/DE4.txt", "Niemiecki"));
-        listToTest.add(new TextFile("src/TextFiles/DE5.txt", "Niemiecki"));
-        listToTest.add(new TextFile("src/TextFiles/DE6.txt", "Niemiecki"));
-        listToTest.add(new TextFile("src/TextFiles/DE7.txt", "Niemiecki"));
-        listToTeach.add(new TextFile("src/TextFiles/FR1.txt", "Francuski"));
-        listToTeach.add(new TextFile("src/TextFiles/FR2.txt", "Francuski"));
-        listToTeach.add(new TextFile("src/TextFiles/FR3.txt", "Francuski"));
-        listToTeach.add(new TextFile("src/TextFiles/FR4.txt", "Francuski"));
-        listToTest.add(new TextFile("src/TextFiles/FR5.txt", "Francuski"));
-        listToTest.add(new TextFile("src/TextFiles/FR6.txt", "Francuski"));
-        listToTest.add(new TextFile("src/TextFiles/FR7.txt", "Francuski"));
-        listToTeach.add(new TextFile("src/TextFiles/ES1.txt", "Hiszpański"));
-        listToTeach.add(new TextFile("src/TextFiles/ES2.txt", "Hiszpański"));
-        listToTeach.add(new TextFile("src/TextFiles/ES3.txt", "Hiszpański"));
-        listToTeach.add(new TextFile("src/TextFiles/ES4.txt", "Hiszpański"));
-        listToTest.add(new TextFile("src/TextFiles/ES5.txt", "Hiszpański"));
-        listToTest.add(new TextFile("src/TextFiles/ES6.txt", "Hiszpański"));
-        listToTest.add(new TextFile("src/TextFiles/ES7.txt", "Hiszpański"));
+        String[][] languages = {
+                {"PL", "Polski"},
+                {"EN", "Angielski"},
+                {"DE", "Niemiecki"},
+                {"FR", "Francuski"},
+                {"ES", "Hiszpański"}
+        };
+
+        for (String[] lang : languages) {
+            String prefix = lang[0];
+            String name = lang[1];
+
+            // teach: 1–4
+            for (int i = 1; i <= 4; i++) {
+                listToTeach.add(new TextFile("src/TextFiles/" + prefix + i + ".txt", name));
+            }
+
+            // test: 5–7
+            for (int i = 5; i <= 7; i++) {
+                listToTest.add(new TextFile("src/TextFiles/" + prefix + i + ".txt", name));
+            }
+        }
 
     }
 }

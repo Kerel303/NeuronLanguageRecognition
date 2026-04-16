@@ -9,7 +9,7 @@ public class NeuronLayer<T extends Trainable> {
     protected Map<String, Neuron> neurons = new LinkedHashMap<>();
     private List<String> classes = new ArrayList<>();
     private int inputSize = 0;
-    private double learningRate = 0.25;
+    private double learningRate = 0.05;
 
     // Konstruktor
     NeuronLayer(List<String> classes, int inputSize){
@@ -73,6 +73,24 @@ public class NeuronLayer<T extends Trainable> {
             throw new IllegalStateException("Brak klasyfikacji - sprawdź dane");
         }
         return bestClass;
+    }
+
+    // Klasyfikacja listy prawdopodobieństw klas
+    public Map<String, Double> classifyAll(T t){
+        double[] data = t.getInput();
+        Map<String, Double> map = new LinkedHashMap<>();
+
+        for(Map.Entry<String, Neuron> entry : neurons.entrySet()){
+            String clazz = entry.getKey();
+            Neuron n = entry.getValue();
+
+            double score = n.predict(data);
+            System.out.println(score);
+
+            map.put(clazz, score);
+        }
+
+        return map;
     }
 
     // Test celności warstwy perceeptronów
